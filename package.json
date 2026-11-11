@@ -1,6 +1,6 @@
 {
   "name": "@qadeer-xtech/whatsapp-rust-bridge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A high-performance utilities for WhatsApp, powered by Rust and WebAssembly.",
   "author": "Qadeer-Xtech",
   "license": "MIT",
@@ -36,5 +36,13 @@
     "sharp": "^0.34.5",
     "typescript": "^5.9.3"
   },
-  "private": false
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qadeer-Xtech/whatsapp-rust-bridge.git"
+  },
+  "homepage": "https://github.com/Qadeer-Xtech/whatsapp-rust-bridge#readme",
+  "bugs": {
+    "url": "https://github.com/Qadeer-Xtech/whatsapp-rust-bridge/issues"
+  }
 }
